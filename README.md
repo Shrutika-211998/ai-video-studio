@@ -21,3 +21,7 @@ Pipeline:
 08 Export Manager
 
 Repository Status: Under Development
+
+## Code-aware status
+
+This repository currently contains a `skills` directory placeholder and no executable video-generation application, dependency manifest, tests, or deployment configuration. It is an early scaffold; estimated implementation completeness is 0–5%.
